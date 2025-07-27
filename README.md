@@ -1,1 +1,1 @@
-# HopfGalois_Phase_Coding
+# morphogenetic fields simulations
